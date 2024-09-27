@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MYSAMPLE APP</string>
+    <string name="submit">sumbit</string>
+    <string name="login">Login</string>
+    <string name="username">Enter Username</string>
+    <string name="password">Enter Password\n</string>
+    <string name="forgot_password">forget password?</string>
+    <string name="biometric_auth">Biomateric Authendication\n</string>
+</resources>
